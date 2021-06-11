@@ -4,3 +4,4 @@ node_modules/
 publish/
 tools/**
 !tools/packages.config
+.idea
