@@ -1,4 +1,4 @@
-.h1 KS læring hr adapter mot Visma. 
+# KS læring hr adapter mot Visma. 
 Originalt utviklet av Narvik kommune.
 
 
